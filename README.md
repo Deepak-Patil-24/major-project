@@ -19,3 +19,6 @@ Deployment: Render
 
 ## Demo 
 Link: https://major-project-ap.onrender.com
+
+Note: The first time you open the link, the page may show “Page Not Found”.
+Click Explore on the homepage to load the listings and access the app.
